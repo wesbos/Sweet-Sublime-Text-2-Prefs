@@ -2,6 +2,10 @@
 	"auto_upgrade_last_run": 1316701680,
 	"repositories":
 	[
-		"git://github.com/jeffturcotte/sublime_transmit_docksend.git"
+		"git://github.com/jeffturcotte/sublime_transmit_docksend.git",
+		"https://github.com/ChrisKempson/Tomorrow-Theme",
+		"https://github.com/fredwu/ruby-slim-tmbundle",
+		"https://github.com/kuroir/SCSS",
+		"https://github.com/seaofclouds/sass-textmate-bundle"
 	]
 }

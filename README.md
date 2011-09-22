@@ -1,3 +1,5 @@
+#Sweet Sublime
+
 A collection of Sublime Text 2 Snippets and Preferences. 
 
 The two important files here are:
@@ -8,6 +10,7 @@ The two important files here are:
 
 ### To Use:
 Clone the repo into the sublime text 2 user package folder
+
 `git clone git://github.com/wesbos/Sweet-Sublime-Text-2-Prefs.git "~/Library/Application Support/Sublime Text 2/Packages/User"`
 
 When there is an update, simply naviate over to `"~/Library/Application Support/Sublime Text 2/Packages/User"` and type `git pull`

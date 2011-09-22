@@ -1,0 +1,10 @@
+// Place user-specific overrides in this file, to ensure they're preserved
+// when upgrading
+{
+	// Replicate single window functionality of Coda
+	"open_files_in_new_window": false,
+	// Close windows when no files open
+	"close_windows_when_empty": true,
+	// enables Vintage Mode
+	"ignored_packages": [] 
+}

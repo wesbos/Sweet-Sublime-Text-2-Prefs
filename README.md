@@ -9,6 +9,11 @@ The two important files here are:
 #### Things are pretty bare at the moment as I'm a new Sublime Text 2 user. Please add and share your favourite prefs/snippets
 
 ### To Use:
+
+You must first install the sublime package control:
+
+http://wbond.net/sublime_packages/package_control
+
 Clone the repo into the sublime text 2 user package folder
 
 `git clone git://github.com/wesbos/Sweet-Sublime-Text-2-Prefs.git "~/Library/Application Support/Sublime Text 2/Packages/User"`

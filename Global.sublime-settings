@@ -1,5 +1,7 @@
 {
 	"close_windows_when_empty": true,
-	"ignored_packages": [],
+	"ignored_packages":
+	[
+	],
 	"open_files_in_new_window": false
 }

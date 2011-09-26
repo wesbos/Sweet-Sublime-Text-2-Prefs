@@ -1,6 +1,7 @@
 {
-	"auto_upgrade" : true,
-	"auto_upgrade_frequency" : 6,
+	"auto_upgrade": true,
+	"auto_upgrade_frequency": 6,
+	"auto_upgrade_last_run": 1317001319.0,
 	"repositories":
 	[
 		"https://github.com/jeffturcotte/sublime_transmit_docksend",

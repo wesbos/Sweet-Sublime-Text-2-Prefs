@@ -1,6 +1,19 @@
 {
+	"auto_indent": true,
 	"color_scheme": "Packages/Color Scheme - Default/Cobalt.tmTheme",
-	"font_size": 13,
-	// The number of spaces a tab is considered equal to
-	"tab_size": 4
+	"font_size": 11.0,
+	"tab_size": 4,
+	"font_face": "monaco",
+	"line_padding_bottom": 0,
+	"line_padding_top": 0,
+	"draw_white_space" : true,
+	"word_wrap": false,	"highlight_line": true,
+	"find_selected_text": true,
+	"match_brackets": true,
+	"match_brackets_angle": true,
+	"match_brackets_braces": true,
+	"match_brackets_content": true,
+	"match_brackets_square": true,
+	"use_tab_stops": true,
+	"draw_centered":false
 }
